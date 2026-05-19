@@ -1,0 +1,6 @@
+layout:
+  - ExtendHangerRod
+  - AnchorHangerRod
+  - RoundRackWidth
+  - SetBearerExtension
+  - PlaceStrutClamps

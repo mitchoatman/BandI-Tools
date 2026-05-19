@@ -1,0 +1,24 @@
+# highlight: new
+
+# bundle title
+title:
+  "Place\nTrapeze"
+
+# bundle tooltip
+tooltip: |-
+  Populates Trapeze hangers on selected pipe(s.
+    1. Select each pipe on the outside of the rack.
+    2. Select the service to assign trapeze hangers to.
+    3. Set trapeze type and spacing rules.
+    4. Click ok and trapeze hangers will be placed.
+
+
+# context directives are listed under `context` key, the order does not matter
+#context:
+#  - Selection
+
+# bundle help url
+help_url: "https://youtu.be/z014sgDpJRk"
+
+# bundle author
+author: Mitchell Oatman
